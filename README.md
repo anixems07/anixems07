@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 ## 👋 Hi, I'm Aniket<br><br>🎓 Computer Science (Cybersecurity) student at **SRM University**<br><br>🔭 Building software across **Full-Stack Development, Agentic AI, Cryptography**<br><br>🌱 I am developing a strong foundation in **Computer Networks** with the goal of becoming a Network Engineer.<br><br>⚡ Fun fact: I enjoy understanding how systems work beneath the surface—whether it's a network packet, an encryption algorithm, or a browser request.
 
 
